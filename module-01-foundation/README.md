@@ -1,5 +1,7 @@
 # Module 1: Foundation & Setup
 
+> These notes are from an earlier edition of the course. Start with the **[course README](../README.md)** and the **[lessons](../v2/README.md)** instead.
+
 Welcome to Module 1! This module introduces you to TanStack Start and gets you productive quickly.
 
 ## 🎯 Learning Objectives
